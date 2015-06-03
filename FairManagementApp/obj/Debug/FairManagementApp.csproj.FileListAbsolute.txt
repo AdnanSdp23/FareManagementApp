@@ -1,0 +1,13 @@
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe.config
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.pdb
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csprojResolveAssemblyReference.cache
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.MenuUI.resources
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.Properties.Resources.resources
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneTypeEntryUI.resources
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csproj.GenerateResource.Cache
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.exe
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.pdb
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.VisitorEntryUI.resources
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneSpecificVisitorInformationReportUI.resources
+D:\BIMT\28_05_2015\FairApp\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneTypeWiseVisitorNumberReportUI.resources
